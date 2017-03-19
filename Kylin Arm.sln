@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kylin Arm.CSharp", "Kylin Arm.CSharp.csproj", "{0E150FC0-A3A1-83DC-B9A3-00613EBDA761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kylin Arm.CSharp.Editor", "Kylin Arm.CSharp.Editor.csproj", "{195C8046-EA22-BAB9-DB24-D0CC7D4158A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E150FC0-A3A1-83DC-B9A3-00613EBDA761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E150FC0-A3A1-83DC-B9A3-00613EBDA761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E150FC0-A3A1-83DC-B9A3-00613EBDA761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E150FC0-A3A1-83DC-B9A3-00613EBDA761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{195C8046-EA22-BAB9-DB24-D0CC7D4158A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195C8046-EA22-BAB9-DB24-D0CC7D4158A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195C8046-EA22-BAB9-DB24-D0CC7D4158A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195C8046-EA22-BAB9-DB24-D0CC7D4158A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
